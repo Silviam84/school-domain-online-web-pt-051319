@@ -1,2 +1,4 @@
 class School
-  def school = ("")
+  def school = ("Bay side High Shool")
+end 
+#initia
