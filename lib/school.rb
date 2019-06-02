@@ -3,3 +3,4 @@ class School
 end 
 
 school.add_student ("Zach Morris",9)
+schoo.roster
